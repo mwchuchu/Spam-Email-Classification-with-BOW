@@ -43,12 +43,7 @@ The dataset consists of 5728 emails with two columns:
     git clone https://github.com/your-username/spam-email-classification-bow.git
     cd spam-email-classification-bow
     ```
-
-2. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+2. Download required libraries in first cell using pip.
 3. Run the notebook:
     Open the `DH_task2.ipynb` notebook and execute the cells in order.
 
